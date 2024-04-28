@@ -1,2 +1,1 @@
-# studyclone
-studynotion,studynotionclone
+# StudyNotion Edtech Project
